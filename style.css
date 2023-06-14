@@ -1,0 +1,40 @@
+
+button {
+    background-color: #308282;
+    border: 1px white solid;
+    color:antiquewhite;
+    border-radius: 5px;
+    padding: 15px 50px;
+    margin: 20px;
+}
+
+button:hover {
+    box-shadow: 0px 0px 5px white;
+}
+
+div {
+    width: 700px;
+    height:360px;
+    background-color: #308259;
+    color:antiquewhite;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 8px;
+}
+
+h1, h2, p {
+    padding: 10px;
+}
+
+h1 {
+    padding-top: 1rem;
+}
+
+p {
+    min-height: 50px;
+}
+
+
+
+
+
