@@ -15,7 +15,7 @@ button:hover {
 div {
     width: 700px;
     height:360px;
-    background-color: #86039d;
+    background-color: #308259;
     color:antiquewhite;
     margin: 20px auto;
     text-align: center;
@@ -32,6 +32,11 @@ h1 {
 
 p {
     min-height: 50px;
+}
+
+span {
+    width: 20px;
+    display: inline-block;
 }
 
 
