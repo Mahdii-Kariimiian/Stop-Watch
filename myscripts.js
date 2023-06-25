@@ -40,7 +40,7 @@ startEl.addEventListener("click", function() {
         }  
     }
 
-    let countmins = setInterval(minutes, 60000) ;
+    let countmins = setInterval(minutes, 6000) ;
 
     function minutes () {
         minCount ++ ;
@@ -54,7 +54,7 @@ startEl.addEventListener("click", function() {
         }  
     }
 
-    let counthours = setInterval(hours, 3600000) ;
+    let counthours = setInterval(hours, 360000) ;
 
     function hours () {
         hoursCount ++ ;
