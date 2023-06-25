@@ -1,3 +1,3 @@
 # First Experience
 
-This is my first try to build a web page using HTML and CSS. 
+This is my first try to build a web page using HTML and CSS and JS. 
